@@ -1,3 +1,5 @@
+![banner](images/banner.jpg)
+
 # .docx and .odt converter to Markdown
 
 > Convert, in a batch mode, .docx and .odt files to markdown. Rely on [Pandoc](http://pandoc.org/).
