@@ -34,10 +34,10 @@
 '
 ' Mention here the full path to the pandoc.exe on your system.
 ' If not yet installed, please install pandoc from http://pandoc.org/installing.html
-Const cPandocExecutable = "C:\Christophe\Tools\pandoc\pandoc.exe"
-'
+Const cPandocExecutable = "C:\Users\adm.christophe.avont\AppData\Local\Pandoc\pandoc.exe"
+
 ' Enable or not the debug mode (is more verbose)
-Const cDebug  = False
+Const cDebug  = True
 '
 ' ### END OF CONFIGURATION ###############################################
 
